@@ -24,7 +24,7 @@ _Carrie Schmid: carriepederson7@gmail.com_
 
 ## Technologies Used
 
-_C#_
+_JavaScript_
 
 ### License
 
